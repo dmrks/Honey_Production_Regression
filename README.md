@@ -7,8 +7,6 @@ As you may have already heard, the honeybees are in a precarious state right now
 
 Note: All the tasks can be completed using Pandas or NumPy. Pick whichever one you prefer.
 
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
-
 
 Check out the Data
 1.
